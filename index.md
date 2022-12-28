@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# Graduate Comupter Networks (Spring 2023)
+# Graduate Computer Networks (Spring 2023)
 
 * **When**: Tuesday and Thursday from 9:30am to 10:59am
 * **Where**: Wheeler 24 (Zoom policy TBD)
