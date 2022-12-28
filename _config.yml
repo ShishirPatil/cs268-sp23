@@ -1,0 +1,16 @@
+# theme: jekyll-theme-leap-day
+
+# Site settings
+title: CS 268
+email: sgp@berkeley.edu 
+author:
+description: CS 268 Sp23 Course Website
+
+
+baseurl: /cs268-sp23
+
+# Build settings
+# permalink: :title/
+sass:
+  sass_dir: css
+
