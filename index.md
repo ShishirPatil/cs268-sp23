@@ -6,10 +6,10 @@ layout: default
 # Graduate Computer Networks (Spring 2023)
 
 * **When**: Tuesday and Thursday from 9:30am to 10:59am
-* **Where**: Wheeler 24 (Zoom policy TBD)
+* **Where**: Wheeler 24. Lectures are not recorded and in-person attendance is required
 * **Instructor**: [Sylvia Ratnasamy](https://eecs.berkeley.edu/~sylvia)
 * **GSI**: [Shishir Patil](https://eecs.berkeley.edu/~shishirpatil)
-* **Office Hours:**: TBD Sylvia at SODA #413
+* **Office Hours:**: Sylvia on Fridays 9:10-10am at SODA 413, Shishir on Wednesdays 11-11:30am at SODA 465E
 * **Announcements**: Ed (please send us an email if you are not added by Jan 15) 
 * **Sign-up to Present**: Every student should sign-up to present. More information will be shared in class
 
@@ -32,7 +32,7 @@ Grades will be largely based on class participation and projects.  In addition, 
 
 Each student will present and lead the discussion on one reading assignment from the syllabus.
 
-For each paper you read you are required to provide a short review. You will have to review no more than two papers per class. The goal of these reviews is to help you synthetise the main ideas and concepts presented in each paper. Details on when and how to submit your review will be posted to piazza. 
+For each paper you read you are required to provide a short review. You will have to review no more than two papers per class. The goal of these reviews is to help you synthetise the main ideas and concepts presented in each paper. Details on when and how to submit your review will be posted to Ed. 
 
 
 
