@@ -20,7 +20,11 @@ CS268 is a graduate level course in computer networks. The course involves readi
 
 ## Projects
 
-A major component of this course, both in terms of your grade and your time, is a term project. The project in CS268 is an open-ended research project. The goal is to investigate new research ideas and solutions. The project requires a proposal, and a final report (both written and presented). 
+A major component of this course, both in terms of your grade and your time, is a term project. The project in CS268 is an open-ended research project. The goal is to investigate new research ideas and solutions. The project requires a proposal, and a final report (both written and presented).
+
+* **10 Feb 2023:** Teams due + 15 min discussion on your project topic
+* **20 Feb 2023:** Project proposals are due
+
 
 
 ## Grading
@@ -95,8 +99,6 @@ This is a tentative schedule. Specific readings are subject to change.
 ## Introduction and Course Overview (Sylvia)
 This lecture will be an overview of the class, requirements.
 
-* Lecture slides: [[pdf](tbd)]
-
 <div class="reading">
 <div class="optional_reading" markdown="1">
 * [Turing](https://www.youtube.com/watch?v=JLAfLWE76fE) 
@@ -108,84 +110,308 @@ This lecture will be an overview of the class, requirements.
 [//]: <> (lecture 2)
 ## Classics: Internet Architecture (Sylvia)
 
-* Reminder to submit your review before xx pm at yy link.
+* Reminder to submit your review before 5pm on Jan 18.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Design](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//darpa-internet.pdf)
-</div>
-<div class="optional_reading" markdown="1">
+* [Clark](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//darpa-internet.pdf)
 * [E2E](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//saltzer-e2e.pdf)
-* [Tussles](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/tussles.pdf)
+* [Active Nets](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//active.pdf)
 </div>
 </div>
 
 {% include syllabus_entry %}
 [//]: <> (lecture 3)
-## Classics: Beyond best-effort (Sylvia)
+## Classics: Beyond best-effort/Unicast (Sylvia)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Active](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//active.pdf)
+* [Multicast](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/cbt.pdf)
 * [QoS](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rfc1633.pdf)
-</div>
-<div class="optional_reading" markdown="1">
-* [Debate](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/Active-vs-E2E.pdf)
 </div>
 </div>
 
 {% include syllabus_entry %}
 [//]: <> (lecture 4)
-## Guest Lecture ([Manya Ghobadi](https://people.csail.mit.edu/ghobadi/))
+## Congestion Control ([Manya Ghobadi](https://people.csail.mit.edu/ghobadi/))
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* TBD
+* [VanCC](http://web.mit.edu/6.829/www/2020/papers/vanjacobson-congavoid.pdf)
+* [XCP](https://web.mit.edu/6.829/www/currentsemester/papers/xcp.pdf) Sections 1-3
 </div>
 </div>
-
-
-
 
 {% include syllabus_entry %}
 [//]: <> (lecture 5)
-## Classics: Beyond unicast (Sylvia)
+## Datacenter Networking
+
+* Student presentations start this week.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Multicast](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/cbt.pdf)
-* [Overlays](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//esm.pdf)
-</div>
-<div class="optional_reading" markdown="1">
-* [Deering](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//Deering88.pdf)
-* [Sprint Experience](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/diot-multicast.pdf)
+* [Fat-Tree](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//al-fares-sigcomm08.pdf)
+* [Jellyfish](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//jellyfish-nsdi12.pdf)
 </div>
 </div>
 
 {% include syllabus_entry %}
 [//]: <> (lecture 6)
-## Congestion Control
+## Software Defined Networking (Sylvia)
 
-* Reminder: Student presentation start this week. 
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [VanCC](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//congavoid.pdf)
-* [XCP](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//xcp.pdf)
-</div>
-<div class="optional_reading" markdown="1">
-* [RCP](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/rcp-ccr.pdf)
+* [4D, OF, videos]
+* [Road]
 </div>
 </div>
-
-
-
-
-<!-- {% include syllabus_entry %}
-# RRR Week
 
 {% include syllabus_entry %}
-# Project Presentations -->
+[//]: <> (lecture 7)
+## Software Defined Networking WANs
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [B4](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//b4.pdf)
+* [SWAN](https://conferences.sigcomm.org/sigcomm/2013/papers/sigcomm/p15.pdf)
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 8)
+## BGP Anees ([Shaikh](http://ashaikh.com/ashaikh_com/))
+
+* Teams for project are due Feb 10th.
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [TBD]
+* [TBD]
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 9)
+## Network Virtualization
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [ONIX](https://people.eecs.berkeley.edu/~sylvia/cs268-2013/papers//onix.pdf)
+* [Invisinets]
+</div>
+</div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 10)
+## Programmable Networks
+
+* Project proposals are due on Feb 20th.
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [RMT](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rmt.pdf) Sections 1-3
+* [Netcache](https://www.cs.cornell.edu/~jnfoster/papers/netcache.pdf)
+</div>
+<div class="optional_reading" markdown="1">
+* [P4](http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf) 
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 11)
+## Datacenter Congestion Control ([Nandita Dukkipati](https://research.google/people/author39115/))
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [TBD]
+* [TBD]
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 12)
+## Fairness: WAN Congestion Control 
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Starvation](https://dl.acm.org/doi/pdf/10.1145/3544216.3544223)
+* [RCS]
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 13)
+## Peer-to-Peer Networking
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
+* [deWeb]
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 14)
+## Net SW
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Click](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//click.pdf)
+* [mTCP]
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 15)
+## NFV
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Aplomb](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/aplomb.pdf)
+* [PIX](https://www.usenix.org/system/files/nsdi22-paper-iyer.pdf)
+</div>
+</div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 16)
+## Low Latency
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)
+* [Acquila](https://www.usenix.org/system/files/nsdi22-paper-gibson.pdf)
+</div>
+</div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 17)
+## Disaggregation
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Net-Req](https://www.usenix.org/system/files/conference/osdi16/osdi16-gao.pdf)
+* [MIND](https://dl.acm.org/doi/pdf/10.1145/3477132.3483561)
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 18)
+## New Foundations: Verification
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [HSA](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//hsa.pdf)
+* [Minesweeper](https://ratul.org/papers/sigcomm2017-minesweeper.pdf)
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 19)
+## Edge: Privacy
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [PGPP](https://www.usenix.org/system/files/sec21-schmitt.pdf)
+* [Anon-VoIP](https://www.usenix.org/system/files/nsdi22-paper-bromberg.pdf)
+</div>
+</div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 20)
+## Edge: Space
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Starlink](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//starlink.pdf)
+* [LOON](https://dl.acm.org/doi/pdf/10.1145/3544216.3544231)
+</div>
+</div>
+
+
+{% include syllabus_entry %}
+# Spring Break
+
+{% include syllabus_entry %}
+# Spring Break
+
+{% include syllabus_entry %}
+[//]: <> (lecture 21)
+## Edge: IoT
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [TBD]
+* [TBD]
+</div>
+</div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 22)
+## Edge: Edge
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [TBD]
+* [TBD]
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 23)
+## Edge: Cellular ([Kurtis Heimerl](https://kurti.sh/))
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Magma](https://arxiv.org/abs/2209.10001)
+* [Congestion](https://kurti.sh/pubs/commgestion_2020.pdf)
+</div>
+</div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 24)
+## Foundations: Time
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [Clock-sync](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-geng.pdf)
+* [FinExch](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_goyal.pdf)
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 25)
+## Networks for ML
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [TBD]
+* [TBD]
+</div>
+</div>
+
+{% include syllabus_entry %}
+[//]: <> (lecture 26)
+## New Directions in Networking (Sylvia)
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [TBD]
+* [TBD]
+</div>
+</div>
+
+{% include syllabus_entry %}
+# Project Presentations
+
+{% include syllabus_entry %}
+# Project Presentations
 
 
 </td>
