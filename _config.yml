@@ -7,7 +7,7 @@ author:
 description: CS 268 Sp23 Course Website
 
 
-baseurl: /cs268-sp23
+baseurl: /
 
 # Build settings
 # permalink: :title/
