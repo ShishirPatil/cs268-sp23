@@ -169,8 +169,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [4D, OF, videos]
-* [Road]
+* [4D](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/4D-ccr05.pdf), [OF](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/openflow.pdf), [video1](https://www.youtube.com/watch?v=c9-K5O_qYgA), [video2](https://www.youtube.com/watch?v=YHeyuD89n1Y)
+* [Road](https://www.sigcomm.org/sites/default/files/ccr/papers/2014/April/0000000-0000012.pdf)
 </div>
 </div>
 
@@ -296,7 +296,8 @@ Advanced Reading
 * [MIND](https://dl.acm.org/doi/pdf/10.1145/3477132.3483561)
 </div>
 <div class="optional_reading" markdown="1">
-* [ONF18](https://www.sigops.org/s/conferences/sosp/2009/papers/dobrescu-sosp09.pdf)
+* [Vahdat-keynote](https://www.youtube.com/watch?v=Am_itCzkaE0)
+* [Partha-ISCA](https://web.eecs.umich.edu/~twenisch/papers/isca09-disaggregate.pdf)
 </div>
 </div>
 
