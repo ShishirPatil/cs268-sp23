@@ -30,9 +30,9 @@ A major component of this course, both in terms of your grade and your time, is 
 ## Grading
 
 Grades will be largely based on class participation and projects.  In addition, we will require weekly paper summaries submitted before class.
-* **Project:** 50%
-* **Paper presentation:** 25%
-* **Paper reviews and class participation:** 25%
+* **Project:** 40%
+* **Paper presentation:** 30%
+* **Paper reviews and in-class participation:** 30%
 
 Each student will present and lead the discussion on one reading assignment from the syllabus.
 
@@ -108,7 +108,7 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 2)
-## Classics: Internet Architecture (Sylvia)
+## Internet Architecture (Sylvia)
 
 * Reminder to submit your review before 5pm on Jan 18.
 
@@ -122,12 +122,19 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 3)
-## Classics: Beyond best-effort/Unicast (Sylvia)
+## Beyond best-effort/Unicast (Sylvia)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Multicast](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/cbt.pdf)
 * [QoS](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rfc1633.pdf)
+</div>
+<div class="optional_reading" markdown="1">
+Background reading
+* [Deering](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//Deering88.pdf)
+
+Advanced Reading
+* [JustWorks](http://www.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf)
 </div>
 </div>
 
@@ -144,7 +151,7 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 5)
-## Datacenter Networking
+## Datacenter Networking (Student Led)
 
 * Student presentations start this week.
 
@@ -157,7 +164,7 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 6)
-## Software Defined Networking (Sylvia)
+## Software Defined Networking: Context (Sylvia)
 
 
 <div class="reading">
@@ -169,43 +176,43 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 7)
-## Software Defined Networking WANs
+## Software Defined Networking: Practice (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [B4](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//b4.pdf)
-* [SWAN](https://conferences.sigcomm.org/sigcomm/2013/papers/sigcomm/p15.pdf)
+* [ONIX](https://people.eecs.berkeley.edu/~sylvia/cs268-2013/papers//onix.pdf)
 </div>
 </div>
 
 {% include syllabus_entry %}
 [//]: <> (lecture 8)
-## BGP Anees ([Shaikh](http://ashaikh.com/ashaikh_com/))
+## BGP (Student Led)
 
 * Teams for project are due Feb 10th.
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD]
+* [Labovitz, SIGCOMM'10](https://dl.acm.org/doi/10.1145/1851182.1851194)
+* [RCP](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rcp-fdna.pdf)
 </div>
 </div>
 
 {% include syllabus_entry %}
 [//]: <> (lecture 9)
-## Network Virtualization
+## BGP Security [Anees Shaikh](http://ashaikh.com/ashaikh_com/)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [ONIX](https://people.eecs.berkeley.edu/~sylvia/cs268-2013/papers//onix.pdf)
-* [Invisinets]
+* [TBD]
+* [TBD]
 </div>
 </div>
 
 
 {% include syllabus_entry %}
 [//]: <> (lecture 10)
-## Programmable Networks
+## Programmable Networks (Student Led)
 
 * Project proposals are due on Feb 20th.
 
@@ -232,7 +239,7 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 12)
-## Fairness: WAN Congestion Control 
+## WAN Congestion Control (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -243,29 +250,33 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 13)
-## Peer-to-Peer Networking
+## Peer-to-Peer Networking (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
-* [deWeb]
+* [deWeb](https://dl.acm.org/doi/10.1145/3544216.3544232)
 </div>
 </div>
 
 {% include syllabus_entry %}
 [//]: <> (lecture 14)
-## Net SW
+## Net SW (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Click](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//click.pdf)
-* [mTCP]
+* [mTCP](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-jeong.pdf)
 </div>
+<div class="optional_reading" markdown="1">
+* [RouteBricks](https://www.sigops.org/s/conferences/sosp/2009/papers/dobrescu-sosp09.pdf) 
+</div>
+
 </div>
 
 {% include syllabus_entry %}
 [//]: <> (lecture 15)
-## NFV
+## NFV (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -277,30 +288,32 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 16)
-## Low Latency
-
-<div class="reading">
-<div class="required_reading" markdown="1">
-* [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)
-* [Acquila](https://www.usenix.org/system/files/nsdi22-paper-gibson.pdf)
-</div>
-</div>
-
-
-{% include syllabus_entry %}
-[//]: <> (lecture 17)
-## Disaggregation
+## Disaggregation (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Net-Req](https://www.usenix.org/system/files/conference/osdi16/osdi16-gao.pdf)
 * [MIND](https://dl.acm.org/doi/pdf/10.1145/3477132.3483561)
 </div>
+* [ONF18](https://www.sigops.org/s/conferences/sosp/2009/papers/dobrescu-sosp09.pdf)
+</div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 17)
+## Low-latency (Student Led)
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)
+* [Acquila](https://www.usenix.org/system/files/nsdi22-paper-gibson.pdf)
+
+</div>
 </div>
 
 {% include syllabus_entry %}
 [//]: <> (lecture 18)
-## New Foundations: Verification
+## Verification (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -311,24 +324,24 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 19)
-## Edge: Privacy
+## Tenant Networking (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [PGPP](https://www.usenix.org/system/files/sec21-schmitt.pdf)
-* [Anon-VoIP](https://www.usenix.org/system/files/nsdi22-paper-bromberg.pdf)
+* [NetHint](https://www.usenix.org/system/files/nsdi22-paper-chen_jingrong.pdf)
+* [Invisinets]
 </div>
 </div>
 
 
 {% include syllabus_entry %}
 [//]: <> (lecture 20)
-## Edge: Space
+## IoT (TBD)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Starlink](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//starlink.pdf)
-* [LOON](https://dl.acm.org/doi/pdf/10.1145/3544216.3544231)
+* [TBD]
+* [TBD]
 </div>
 </div>
 
@@ -341,7 +354,7 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 21)
-## Edge: IoT
+## Edge (TBD)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -353,18 +366,18 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 22)
-## Edge: Edge
+## Space (Student Lad)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD]
+* [Starlink](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//starlink.pdf)
+* [LOON](https://dl.acm.org/doi/pdf/10.1145/3544216.3544231)
 </div>
 </div>
 
 {% include syllabus_entry %}
 [//]: <> (lecture 23)
-## Edge: Cellular ([Kurtis Heimerl](https://kurti.sh/))
+## Cellular ([Kurtis Heimerl](https://kurti.sh/))
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -376,7 +389,7 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 24)
-## Foundations: Time
+## Time (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -387,7 +400,7 @@ This lecture will be an overview of the class, requirements.
 
 {% include syllabus_entry %}
 [//]: <> (lecture 25)
-## Networks for ML
+## Networks for ML (TBD)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
