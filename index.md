@@ -206,8 +206,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD]
+* [BGP](https://www.caida.org/catalog/papers/2019_profiling_bgp_serial_hijackers/profiling_bgp_serial_hijackers.pdf)
+* [Routing](https://cacm.acm.org/magazines/2021/6/252822-securing-internet-applications-from-routing-attacks/fulltext)
 </div>
 </div>
 
