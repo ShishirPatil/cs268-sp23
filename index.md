@@ -115,8 +115,10 @@ This lecture will be an overview of the class, requirements.
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Clark](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//darpa-internet.pdf)
-* [E2E](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//saltzer-e2e.pdf)
 * [Active Nets](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//active.pdf)
+</div>
+<div class="optional_reading" markdown="1">
+* [E2E](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//saltzer-e2e.pdf)
 </div>
 </div>
 
