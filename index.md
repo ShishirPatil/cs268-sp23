@@ -9,7 +9,7 @@ layout: default
 * **Where**: Wheeler 24. Lectures are not recorded and in-person attendance is required
 * **Instructor**: [Sylvia Ratnasamy](https://eecs.berkeley.edu/~sylvia)
 * **GSI**: [Shishir Patil](https://eecs.berkeley.edu/~shishirpatil)
-* **Office Hours:**: Sylvia on Fridays 9:10-10am at SODA 413, Shishir on Wednesdays 11-11:30am at SODA 465E
+* **Office Hours**: Sylvia on Fridays 9:10-10am at SODA 413, Shishir on Wednesdays 11-11:30am at SODA 465E
 * **Announcements**: Ed (please send us an email if you are not added by Jan 15) 
 * **Sign-up to Present**: Every student should sign-up to present. More information will be shared in class
 
@@ -99,6 +99,8 @@ This is a tentative schedule. Specific readings are subject to change.
 ## Introduction and Course Overview (Sylvia)
 This lecture will be an overview of the class, requirements.
 
+* [Slides](assets/lectures/cs268-2023-L1.pdf)
+
 <div class="reading">
 <div class="optional_reading" markdown="1">
 * [Turing](https://www.youtube.com/watch?v=JLAfLWE76fE) 
@@ -125,6 +127,8 @@ This lecture will be an overview of the class, requirements.
 {% include syllabus_entry %}
 [//]: <> (lecture 3)
 ## Beyond best-effort/Unicast (Sylvia)
+
+* Reminder to submit your preferences for which paper your would like to present by Jan 23. 
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -246,7 +250,7 @@ Advanced Reading
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Starvation](https://dl.acm.org/doi/pdf/10.1145/3544216.3544223)
-* [RCS]
+* [RCS](assets/papers/RCS_SIGCOMM.pdf)
 </div>
 </div>
 
@@ -318,12 +322,12 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 18)
-## Verification (Student Led)
+## IoT ([Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/))
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [HSA](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//hsa.pdf)
-* [Minesweeper](https://ratul.org/papers/sigcomm2017-minesweeper.pdf)
+* [TBD]
+* [TBD]
 </div>
 </div>
 
@@ -341,12 +345,12 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 20)
-## IoT (TBD)
+## Verification (Student Led)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD]
+* [HSA](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//hsa.pdf)
+* [Minesweeper](https://ratul.org/papers/sigcomm2017-minesweeper.pdf)
 </div>
 </div>
 
