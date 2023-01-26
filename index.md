@@ -163,8 +163,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Fat-Tree](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//al-fares-sigcomm08.pdf)
-* [Jellyfish](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//jellyfish-nsdi12.pdf)
+* [Fat-Tree](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//al-fares-sigcomm08.pdf) (Alvin Tan)
+* [Jellyfish](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//jellyfish-nsdi12.pdf) (Joonho Whangbo)
 </div>
 </div>
 
@@ -186,8 +186,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [B4](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//b4.pdf)
-* [ONIX](https://people.eecs.berkeley.edu/~sylvia/cs268-2013/papers//onix.pdf)
+* [B4](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//b4.pdf) (Simon Mo)
+* [ONIX](https://people.eecs.berkeley.edu/~sylvia/cs268-2013/papers//onix.pdf) (Mark Theis)
 </div>
 </div>
 
@@ -199,8 +199,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Labovitz, SIGCOMM'10](https://dl.acm.org/doi/10.1145/1851182.1851194)
-* [RCP](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rcp-fdna.pdf)
+* [Labovitz, SIGCOMM'10](https://dl.acm.org/doi/10.1145/1851182.1851194) (Fuzail Shakir)
+* [RCP](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rcp-fdna.pdf) (Emily Marx)
 </div>
 </div>
 
@@ -224,8 +224,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [RMT](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rmt.pdf) Sections 1-3
-* [Netcache](https://www.cs.cornell.edu/~jnfoster/papers/netcache.pdf)
+* [RMT](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rmt.pdf) Sections 1-3 (Todd Yu?)
+* [Netcache](https://www.cs.cornell.edu/~jnfoster/papers/netcache.pdf) (Rithvik Chuppala)
 </div>
 <div class="optional_reading" markdown="1">
 * [P4](http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf) 
@@ -249,8 +249,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Starvation](https://dl.acm.org/doi/pdf/10.1145/3544216.3544223)
-* [RCS](assets/papers/RCS_SIGCOMM.pdf)
+* [Starvation](https://dl.acm.org/doi/pdf/10.1145/3544216.3544223) (Nicholas Ngai)
+* [RCS](assets/papers/RCS_SIGCOMM.pdf) (Reginald Frank)
 </div>
 </div>
 
@@ -260,8 +260,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
-* [deWeb](https://dl.acm.org/doi/10.1145/3544216.3544232)
+* [Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) (Wei-Lin Chiang)
+* [deWeb](https://dl.acm.org/doi/10.1145/3544216.3544232) (Michaela Murray)
 </div>
 </div>
 
@@ -271,8 +271,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Click](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//click.pdf)
-* [mTCP](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-jeong.pdf)
+* [Click](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//click.pdf) (Shreyas Krishnaswamy)
+* [mTCP](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-jeong.pdf) (Sean Kim)
 </div>
 <div class="optional_reading" markdown="1">
 * [RouteBricks](https://www.sigops.org/s/conferences/sosp/2009/papers/dobrescu-sosp09.pdf) 
@@ -286,8 +286,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Aplomb](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/aplomb.pdf)
-* [PIX](https://www.usenix.org/system/files/nsdi22-paper-iyer.pdf)
+* [Aplomb](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/aplomb.pdf) (Efsane Soyer)
+* [PIX](https://www.usenix.org/system/files/nsdi22-paper-iyer.pdf) (Noelle Davis?)
 </div>
 </div>
 
@@ -298,8 +298,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Net-Req](https://www.usenix.org/system/files/conference/osdi16/osdi16-gao.pdf)
-* [MIND](https://dl.acm.org/doi/pdf/10.1145/3477132.3483561)
+* [Net-Req](https://www.usenix.org/system/files/conference/osdi16/osdi16-gao.pdf) (Sam Son)
+* [MIND](https://dl.acm.org/doi/pdf/10.1145/3477132.3483561) (Josh Kang)
 </div>
 <div class="optional_reading" markdown="1">
 * [Vahdat-keynote](https://www.youtube.com/watch?v=Am_itCzkaE0)
@@ -314,8 +314,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf)
-* [Acquila](https://www.usenix.org/system/files/nsdi22-paper-gibson.pdf)
+* [cISP](https://www.usenix.org/system/files/nsdi22-paper-bhattacherjee.pdf) (Tess Despres)
+* [Acquila](https://www.usenix.org/system/files/nsdi22-paper-gibson.pdf) (Vikranth Srivatsa)
 
 </div>
 </div>
@@ -337,8 +337,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [NetHint](https://www.usenix.org/system/files/nsdi22-paper-chen_jingrong.pdf)
-* [Invisinets]
+* [NetHint](https://www.usenix.org/system/files/nsdi22-paper-chen_jingrong.pdf) (Shu Liu)
+* [Invisinets] (Sarah Wooders)
 </div>
 </div>
 
@@ -349,8 +349,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [HSA](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//hsa.pdf)
-* [Minesweeper](https://ratul.org/papers/sigcomm2017-minesweeper.pdf)
+* [HSA](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//hsa.pdf) (Daniel Rothchild?)
+* [Minesweeper](https://ratul.org/papers/sigcomm2017-minesweeper.pdf) (Alex Krentsel)
 </div>
 </div>
 
@@ -379,8 +379,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Starlink](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//starlink.pdf)
-* [LOON](https://dl.acm.org/doi/pdf/10.1145/3544216.3544231)
+* [Starlink](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//starlink.pdf) (Tenzin Ukyab)
+* [LOON](https://dl.acm.org/doi/pdf/10.1145/3544216.3544231) (Alexander Pan)
 </div>
 </div>
 
@@ -402,8 +402,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Clock-sync](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-geng.pdf)
-* [FinExch](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_goyal.pdf)
+* [Clock-sync](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-geng.pdf) (Junsun Choi)
+* [FinExch](https://conferences.sigcomm.org/hotnets/2022/papers/hotnets22_goyal.pdf) (Ujjaini Mukhopadhyay)
 </div>
 </div>
 
@@ -424,7 +424,7 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
+* [TBD] (Shubham Mishra?)
 * [TBD]
 </div>
 </div>
