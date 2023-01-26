@@ -287,7 +287,7 @@ Advanced Reading
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Aplomb](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/aplomb.pdf) (Efsane Soyer)
-* [PIX](https://www.usenix.org/system/files/nsdi22-paper-iyer.pdf) (Noelle Davis?)
+* [PIX](https://www.usenix.org/system/files/nsdi22-paper-iyer.pdf) (Shubham Mishra)
 </div>
 </div>
 
@@ -424,7 +424,7 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD] (Shubham Mishra?)
+* [TBD] (Noelle Davis?)
 * [TBD]
 </div>
 </div>
