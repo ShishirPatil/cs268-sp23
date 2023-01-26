@@ -224,7 +224,7 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [RMT](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rmt.pdf) Sections 1-3 (Todd Yu?)
+* [RMT](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rmt.pdf) Sections 1-3 (Daniel Rothchild)
 * [Netcache](https://www.cs.cornell.edu/~jnfoster/papers/netcache.pdf) (Rithvik Chuppala)
 </div>
 <div class="optional_reading" markdown="1">
@@ -349,7 +349,7 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [HSA](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//hsa.pdf) (Daniel Rothchild?)
+* [HSA](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//hsa.pdf) (Noelle Davis)
 * [Minesweeper](https://ratul.org/papers/sigcomm2017-minesweeper.pdf) (Alex Krentsel)
 </div>
 </div>
@@ -424,8 +424,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD] (Noelle Davis?)
-* [TBD]
+* [TBD] (Todd Yu)
+* [TBD] (Jiachen Yuan)
 </div>
 </div>
 
