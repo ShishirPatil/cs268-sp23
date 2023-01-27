@@ -170,7 +170,7 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 6)
-## Software Defined Networking: Context (Sylvia)
+## Software Defined Networking: Context (Scott Shenker)
 
 
 <div class="reading">
