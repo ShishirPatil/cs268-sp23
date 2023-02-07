@@ -22,7 +22,7 @@ CS268 is a graduate level course in computer networks. The course involves readi
 
 A major component of this course, both in terms of your grade and your time, is a term project. The project in CS268 is an open-ended research project. The goal is to investigate new research ideas and solutions. The project requires a proposal, and a final report (both written and presented).
 
-* **10 Feb 2023:** Teams due + 15 min discussion on your project topic
+* **10 Feb 2023:** Teams due. Please discuss your project with Sylvia/Shishir for 15 min anytime before 20 Feb 2023.
 * **20 Feb 2023:** Project proposals are due
 
 
