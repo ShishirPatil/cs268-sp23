@@ -211,18 +211,6 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 9)
-## BGP Security [Anees Shaikh](http://ashaikh.com/ashaikh_com/)
-
-<div class="reading">
-<div class="required_reading" markdown="1">
-* [BGP](https://www.caida.org/catalog/papers/2019_profiling_bgp_serial_hijackers/profiling_bgp_serial_hijackers.pdf)
-* [Routing](https://cacm.acm.org/magazines/2021/6/252822-securing-internet-applications-from-routing-attacks/fulltext)
-</div>
-</div>
-
-
-{% include syllabus_entry %}
-[//]: <> (lecture 10)
 ## Programmable Networks (Student Led)
 
 * Project proposals are due on Feb 20th.
@@ -236,6 +224,19 @@ Advanced Reading
 * [P4](http://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf) 
 </div>
 </div>
+
+
+{% include syllabus_entry %}
+[//]: <> (lecture 10)
+## BGP Security [Anees Shaikh](http://ashaikh.com/ashaikh_com/)
+
+<div class="reading">
+<div class="required_reading" markdown="1">
+* [BGP](https://www.caida.org/catalog/papers/2019_profiling_bgp_serial_hijackers/profiling_bgp_serial_hijackers.pdf)
+* [Routing](https://cacm.acm.org/magazines/2021/6/252822-securing-internet-applications-from-routing-attacks/fulltext)
+</div>
+</div>
+
 
 {% include syllabus_entry %}
 [//]: <> (lecture 11)
