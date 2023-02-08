@@ -202,6 +202,11 @@ Advanced Reading
 * [Labovitz, SIGCOMM'10](https://dl.acm.org/doi/10.1145/1851182.1851194) (Fuzail Shakir)
 * [RCP](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//rcp-fdna.pdf) (Emily Marx)
 </div>
+<div class="optional_reading" markdown="1">
+* [BGP-notes](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers/hari-bgpnotes.pdf)
+* [lec9](https://cs168.io/assets/lectures/9.pdf)
+* [lec10](https://cs168.io/assets/lectures/10.pdf)
+</div>
 </div>
 
 {% include syllabus_entry %}
@@ -250,7 +255,7 @@ Advanced Reading
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Starvation](https://dl.acm.org/doi/pdf/10.1145/3544216.3544223) (Nicholas Ngai)
-* [RCS](assets/papers/RCS_SIGCOMM.pdf) (Reginald Frank)
+* [RCS](assets/papers/RCS_SIGCOMM.pdf) (Alex Krentsel)
 </div>
 </div>
 
@@ -260,7 +265,7 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) (Wei-Lin Chiang)
+* [Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) (Noelle Davis)
 * [deWeb](https://dl.acm.org/doi/10.1145/3544216.3544232) (Michaela Murray)
 </div>
 </div>
@@ -338,7 +343,7 @@ Advanced Reading
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [NetHint](https://www.usenix.org/system/files/nsdi22-paper-chen_jingrong.pdf) (Shu Liu)
-* [Invisinets] (Sarah Wooders)
+* [Invisinets] (Miles Wada)
 </div>
 </div>
 
@@ -349,8 +354,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [HSA](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//hsa.pdf) (Noelle Davis)
-* [Minesweeper](https://ratul.org/papers/sigcomm2017-minesweeper.pdf) (Alex Krentsel)
+* [HSA](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//hsa.pdf) (Preston McCrary)
+* [Minesweeper](https://ratul.org/papers/sigcomm2017-minesweeper.pdf) (Reggie Frank)
 </div>
 </div>
 
@@ -380,7 +385,7 @@ Advanced Reading
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [Starlink](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//starlink.pdf) (Tenzin Ukyab)
-* [LOON](https://dl.acm.org/doi/pdf/10.1145/3544216.3544231) (Alexander Pan)
+* [LOON](https://dl.acm.org/doi/pdf/10.1145/3544216.3544231) (Sarah Wooders)
 </div>
 </div>
 
