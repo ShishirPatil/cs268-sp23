@@ -327,7 +327,7 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 18)
-## IoT ([Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/))
+## IoT (TBD)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
@@ -368,7 +368,7 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 21)
-## Edge (TBD)
+## Edge ([Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/))
 
 <div class="reading">
 <div class="required_reading" markdown="1">
