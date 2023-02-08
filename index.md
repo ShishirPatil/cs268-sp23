@@ -429,7 +429,7 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD] (Todd Yu)
+* [TBD]
 * [TBD] (Jiachen Yuan)
 </div>
 </div>
