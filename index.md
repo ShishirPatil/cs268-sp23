@@ -23,7 +23,7 @@ CS268 is a graduate level course in computer networks. The course involves readi
 A major component of this course, both in terms of your grade and your time, is a term project. The project in CS268 is an open-ended research project. The goal is to investigate new research ideas and solutions. The project requires a proposal, and a final report (both written and presented).
 
 * **10 Feb 2023:** Teams due. Please discuss your project with Sylvia/Shishir for 15 min anytime before 20 Feb 2023.
-* **20 Feb 2023:** Project proposals are due
+* **25 Feb 2023:** Project proposals are due
 
 
 
@@ -244,8 +244,11 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD]
+* [pFabric](https://dl.acm.org/doi/10.1145/2486001.2486031)
+* [Swift](https://dl.acm.org/doi/abs/10.1145/3387514.3406591)
+</div>
+<div class="optional_reading" markdown="1">
+* [Clock Sync](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-geng.pdf) 
 </div>
 </div>
 
