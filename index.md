@@ -269,7 +269,7 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) (Noelle Davis)
+* [Chord](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf) / [Geometry](https://www.conviva.com/wp-content/uploads/2017/09/The-Impact-of-DHT-Routing-Geometry-on-Resilience-and-Proximity.pdf) (Noelle Davis)
 * [deWeb](https://dl.acm.org/doi/10.1145/3544216.3544232) (Michaela Murray)
 </div>
 </div>
