@@ -9,7 +9,7 @@ layout: default
 * **Where**: Wheeler 24. Lectures are not recorded and in-person attendance is required
 * **Instructor**: [Sylvia Ratnasamy](https://eecs.berkeley.edu/~sylvia)
 * **GSI**: [Shishir Patil](https://eecs.berkeley.edu/~shishirpatil)
-* **Office Hours**: Sylvia on Fridays 9:10-10am at SODA 413, Shishir on Wednesdays 11-11:30am at SODA 465E
+* **Office Hours**: Sylvia on Fridays 9:10-10am at SODA 413, Shishir on Wednesdays 11-11:30am at SODA 420
 * **Announcements**: Ed (please send us an email if you are not added by Jan 15) 
 * **Sign-up to Present**: Every student should sign-up to present. More information will be shared in class
 
