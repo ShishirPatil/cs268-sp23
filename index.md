@@ -331,12 +331,14 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 18)
-## IoT (TBD)
+## IoT ([Philip Levis](http://csl.stanford.edu/~pal/))
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD]
+* [Encore](http://conferences.sigcomm.org/sigcomm/2015/pdf/reviews/226pr.pdf)
+* [Collateral](https://dl.acm.org/doi/abs/10.1145/2317307.2317311)
+* [Moral-1](https://conspicuouschatter.wordpress.com/2015/08/20/on-the-morals-of-network-research-and-beyond/)
+* [Moral-2](https://web.cs.ucdavis.edu/~rogaway/papers/moral-en.pdf)
 </div>
 </div>
 
