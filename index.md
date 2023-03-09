@@ -331,7 +331,7 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 18)
-## IoT ([Philip Levis](http://csl.stanford.edu/~pal/))
+## Ethics in Networking Research ([Philip Levis](http://csl.stanford.edu/~pal/))
 
 <div class="reading">
 <div class="required_reading" markdown="1">
