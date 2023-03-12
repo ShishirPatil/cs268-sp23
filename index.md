@@ -349,7 +349,7 @@ Advanced Reading
 <div class="reading">
 <div class="required_reading" markdown="1">
 * [NetHint](https://www.usenix.org/system/files/nsdi22-paper-chen_jingrong.pdf) (Shu Liu)
-* [Invisinets] (Miles Wada)
+* [Invisinets](assets/papers/invisinets_nsdi.pdf) (Miles Wada)
 </div>
 </div>
 
