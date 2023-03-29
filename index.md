@@ -374,12 +374,15 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 21)
-## Edge ([Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/))
+## Networks for ML (Jiachen Yuan, Sylvia Ratnasamy)
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD]
+* [DL-RDMA](https://readingxtra.github.io/docs/RMDA/eurosys19-xue-jilong.pdf)
+* [SwitchML](https://arxiv.org/pdf/1903.06701.pdf)
+</div>
+<div class="optional_reading" markdown="1">
+* [Horovod](https://arxiv.org/abs/1802.05799)
 </div>
 </div>
 
@@ -420,7 +423,7 @@ Advanced Reading
 
 {% include syllabus_entry %}
 [//]: <> (lecture 25)
-## Networks for ML (TBD)
+## Edge ([Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/))
 
 <div class="reading">
 <div class="required_reading" markdown="1">
