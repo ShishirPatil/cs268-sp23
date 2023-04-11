@@ -6,7 +6,7 @@ layout: default
 # Graduate Computer Networks (Spring 2023)
 
 * **When**: Tuesday and Thursday from 9:30am to 10:59am
-* **Where**: Wheeler 24. Lectures are not recorded and in-person attendance is required
+* **Where**: Soda Hall 420. Lectures are not recorded and in-person attendance is required
 * **Instructor**: [Sylvia Ratnasamy](https://eecs.berkeley.edu/~sylvia)
 * **GSI**: [Shishir Patil](https://eecs.berkeley.edu/~shishirpatil)
 * **Office Hours**: Sylvia on Fridays 9:10-10am at SODA 413, Shishir on Wednesdays 11-11:30am at SODA 420
