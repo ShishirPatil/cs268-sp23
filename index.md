@@ -427,8 +427,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD]
+* [FarmBeats](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/FarmBeats-webpage-1.pdf)
+* [Visage](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/Visage_Mobicom_2021.pdf)
 </div>
 </div>
 
