@@ -427,8 +427,8 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD]
+* [FarmBeats](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/FarmBeats-webpage-1.pdf)
+* [Visage](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/Visage_Mobicom_2021.pdf)
 </div>
 </div>
 
@@ -438,8 +438,12 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
-* [TBD]
-* [TBD] (Jiachen Yuan)
+* [UrbanTech](https://www.youtube.com/watch?v=6wrx_NTDfgg)
+* [Whither CC](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//throwdown.pdf)
+* [Trends](https://www.youtube.com/watch?v=Am_itCzkaE0)
+* [Feudalism](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//net-feudalism.pdf)
+* [Extensibility on the Internet](https://www.cs.princeton.edu/~jrex/papers/ei21.pdf)
+* [New frontiers](https://dl.acm.org/doi/10.1145/3422604.3425937)
 </div>
 </div>
 
