@@ -438,6 +438,9 @@ Advanced Reading
 
 <div class="reading">
 <div class="required_reading" markdown="1">
+
+There are *no* required readings.  These are some position papers for inspiration.
+
 * [UrbanTech](https://www.youtube.com/watch?v=6wrx_NTDfgg)
 * [Whither CC](https://people.eecs.berkeley.edu/~sylvia/cs268-2019/papers//throwdown.pdf)
 * [Trends](https://www.youtube.com/watch?v=Am_itCzkaE0)
