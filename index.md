@@ -429,6 +429,12 @@ Advanced Reading
 <div class="required_reading" markdown="1">
 * [FarmBeats](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/FarmBeats-webpage-1.pdf)
 * [Visage](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/Visage_Mobicom_2021.pdf)
+
+If possible, please read the additional two papers - no reviews for these:
+
+* [Whisper](https://www.usenix.org/system/files/nsdi22-paper-chakraborty.pdf)
+* [L2D2](https://dl.acm.org/doi/10.1145/3452296.3472932)
+
 </div>
 </div>
 
